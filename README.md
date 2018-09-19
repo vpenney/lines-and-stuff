@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/vpenney/lines-and-stuff.svg?branch=master)](https://travis-ci.org/vpenney/lines-and-stuff)
+
 # Drawing some lines
 
 ## Installation instructions
